@@ -27,7 +27,7 @@
 ---
 
 ## **RAGアプローチと手法**  
-## スコア詳細（画像クリックで拡大表示）
+## [スコア詳細](images/raggle-score.png) （画像クリックでも拡大表示）
 
 <a href="images/raggle-score.png" target="_blank">
     <img src="images/raggle-score.png" alt="サムネイル画像" width="300">
