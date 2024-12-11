@@ -1,5 +1,6 @@
 # RAGコンペ(raggle: 法務RAGシステムの性能改善ハッカソン)参加記録のプロジェクト
-[raggle : 日本最強のRAGエンジニアを目指そう](https://raggle.jp/)
+[raggle : 日本最強のRAGエンジニアを目指そう](https://raggle.jp/)  
+[第1回Raggleコンペティション表彰式（YouTube)](https://youtu.be/QO6aGdMLJNE)
 
 ## 📚 概要
 このリポジトリは、**RAGコンペ** の参加を通じて実装した、RAG (Retrieval-Augmented Generation) システムのソースコードを含みます。本プロジェクトでは、指定された評価指標に基づいた、RAGシステムの性能向上を目指しました。  
@@ -25,7 +26,12 @@
 
 ---
 
-## **RAGアプローチと手法**
+## **RAGアプローチと手法**  
+## スコア詳細（画像クリックで拡大表示）
+
+<a href="images/raggle-score.png" target="_blank">
+    <img src="images/raggle-score.png" alt="サムネイル画像" width="300">
+</a>
 
 ### RAGパイプラインの性能改善
 
